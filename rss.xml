@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sussex Air Imaging]]></title>
         <description><![CDATA[Sussex Air Imaging]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sussex-air-imaging/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 09:51:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 10:35:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sussex-air-imaging/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TV & Film Drone Filming]]></title>
+            <description><![CDATA[<article><h1>TV & Film Drone Filming</h1><p>Aerial or ‘drone’ footage is a massively growing trend within the TV and film industries – and now Sussex Air Imaging can offer a complete solution to any Television or Film production company -We are specialists in 4K Aerial Drone Filming for TV, News and Feature Film Productions in Sussex.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a46ae899895204154b334137d253255c9b4bb5db.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sussex-air-imaging/tv-and-film-drone-filming/index.html</link>
+            <guid isPermaLink="false">b050d551-6167-440c-8511-4d69052e3e40</guid>
+            <pubDate>Mon, 07 Mar 2016 10:35:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Sussex Home Drone]]></title>
             <description><![CDATA[<article><h1>The Sussex Home Drone</h1><p>Sussex Aerial Property Drone Photography in Brighton, Hastings, Eastbourne, Haywards Heath, Lewes, Hailsham, Bexhill and surrounding towns and villages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aca206d82e179ee89cf7907281de5c4f12a1bb76.jpg"></article>]]></description>
-            <link>undefinedthe-sussex-home-drone/index.html</link>
+            <link>https://thegrid.ai/sussex-air-imaging/the-sussex-home-drone/index.html</link>
             <guid isPermaLink="false">70a74129-2fef-4f41-892e-661ea9e6ea35</guid>
             <pubDate>Mon, 07 Mar 2016 09:51:33 GMT</pubDate>
         </item>
