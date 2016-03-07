@@ -1,7 +1,7 @@
 name: Sussex Air Imaging
 favicon: null
-layout_spectrum: 0.7277326774783432
-typography_spectrum: 0.9336023868527263
+layout_spectrum: 0.7862
+typography_spectrum: 0.39315
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.761501443805173
-  lightness: 0.9646726534701884
-  saturation: 0.45627883612178266
+    - '#ffffff'
+    - '#393433'
+    - '#9b9b9b'
+    - '#2089c7'
+    - '#c0c0c0'
+  brandStrength: 0.8125
+  lightness: 0.6875
+  saturation: 0.625
   rhythmicContrast: 0.6598176709376276
 purpose: []
