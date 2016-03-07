@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sussex Air Imaging]]></title>
+        <description><![CDATA[Sussex Air Imaging]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 09:51:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Sussex Home Drone]]></title>
+            <description><![CDATA[<article><h1>The Sussex Home Drone</h1><p>Sussex Aerial Property Drone Photography in Brighton, Hastings, Eastbourne, Haywards Heath, Lewes, Hailsham, Bexhill and surrounding towns and villages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aca206d82e179ee89cf7907281de5c4f12a1bb76.jpg"></article>]]></description>
+            <link>undefinedthe-sussex-home-drone/index.html</link>
+            <guid isPermaLink="false">70a74129-2fef-4f41-892e-661ea9e6ea35</guid>
+            <pubDate>Mon, 07 Mar 2016 09:51:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
